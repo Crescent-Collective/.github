@@ -33,14 +33,3 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 Various parts of this Code of Conduct are forked from the  [Contributor Covenant](https://www.contributor-covenant.org/), version 1.4, available at  [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
 
 For answers to common questions about the base code of conduct, see  [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). However, it's important to note that the principles of this Code of Conduct can potentially conflict with the standards in the base version.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 1.4, available at
-https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
-
-For answers to common questions about this code of conduct, see
-https://www.contributor-covenant.org/faq
-
-[homepage]: https://www.contributor-covenant.org
